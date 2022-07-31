@@ -9,13 +9,13 @@ A self-motivated and passionate Engineering undergraduate with proven technical 
 
 <br />
 
-🎓I am an undergraduate student at the University of Moratuwa
+🎓I am an engineer undergraduate student at the University of Moratuwa
 
-🔭 I’m currently developing my final year project.<br>
-🌱 I’m currently learning Natural Language Processing.<br>
+🔭 I’m seeking for a opportunity in the field of IT.<br>
+🌱 I’m currently learning Python.<br>
 👯 I’m looking to collaborate with anyone on any project.<br>
 💬 Ask me about anything.<br>
-⚡ Fun fact: I love writing poems and doing arts.<br>
+⚡ Fun fact: I love writing and creating contents.<br>
 
 <br />
 <br />
