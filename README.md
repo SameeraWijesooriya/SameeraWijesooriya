@@ -49,9 +49,9 @@ A self-motivated and passionate Engineering undergraduate with proven technical 
 
 ## 🏆 My Github Stats:
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmaniWarakaulla&show_icons=true&theme=tokyonight)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraWijesooriya&show_icons=true&theme=tokyonight)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmaniWarakaulla&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameeraWijesooriya&theme=tokyonight)
  
  <br />
  
