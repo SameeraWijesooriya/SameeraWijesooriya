@@ -18,6 +18,7 @@ A self-motivated and passionate Engineering undergraduate with proven technical 
 ⚡ Fun fact: I love writing poems and doing arts.<br>
 
 <br />
+<br />
 
 ## Find me around the web 🌎: 
 <a href="https://github.com/sponsors/SameeraWijesooriya"><img align="left" width="150" height="150" src="https://github.com/SameeraWijesooriya/SameeraWijesooriya/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
@@ -45,6 +46,15 @@ A self-motivated and passionate Engineering undergraduate with proven technical 
 </p>
 
 <br />
+
+## 🏆 My Github Stats:
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmaniWarakaulla&show_icons=true&theme=tokyonight)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmaniWarakaulla&theme=tokyonight)
+ 
+ <br />
+ 
 - Footer
 © 2022 GitHub, Inc.
 Footer navigation
