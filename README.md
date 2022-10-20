@@ -47,6 +47,12 @@ A self-motivated and passionate Engineering undergraduate with proven technical 
 
 <br />
 
+## 🏆 My Batches:
+
+[![@sameera's Holopin board](https://holopin.me/sameera)](https://holopin.io/@sameera)
+
+<br />
+
 ## 🏆 My Github Stats:
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraWijesooriya&show_icons=true&theme=tokyonight)
