@@ -1,7 +1,7 @@
 # Hi, I'm Sameera Wijesooriya 👋🏾 👨‍💻
 
 <img src="https://raw.githubusercontent.com/SameeraWijesooriya/SameeraWijesooriya/master/sameera.jpeg" alt="banner that says Sameera Wijesooriya - software engineer, content creator and community organizer alongside a cartoon illustration of Sameera">
-A self-motivated and passionate Engineering graduate with proven technical and leadership skills, in the field of Earth Resources Engineering. Skilled in AutoCAD and Graphic Design. Strong legal professional with a Bachelor of Science in Engineering focused in Earth Resources engineering from University of Moratuwa. Interested in changing my career path into IT industry as IT professional. 
+A self-motivated and passionate Engineering graduate with proven technical and leadership skills, in the field of Earth Resources Engineering. Skilled in AutoCAD and Graphic Design. Strong legal professional with a Bachelor of Science in Engineering focused in Earth Resources engineering from University of Moratuwa. Interested in changing my career path into IT industry as IT professional. Currenntly I am working as a trainee software engineer at IJSE. 
 <br />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SameeraWijesooriya.SameeraWijesooriya)
@@ -9,10 +9,10 @@ A self-motivated and passionate Engineering graduate with proven technical and l
 
 <br />
 
-🎓I am an engineer graduate student at the University of Moratuwa
+🎓I a fresh engineer graduate student at the University of Moratuwa, Currenty working as a trainee software engineer at IJSE.
 
-🔭 I’m seeking for a opportunity in the field of IT.<br>
-🌱 I’m currently learning Python.<br>
+🔭 I’m seeking for a opportunity in the field of Software Engineering.<br>
+🌱 I’m currently learning Java.<br>
 👯 I’m looking to collaborate with anyone on any project.<br>
 💬 Ask me about anything.<br>
 ⚡ Fun fact: I love writing and creating contents.<br>
